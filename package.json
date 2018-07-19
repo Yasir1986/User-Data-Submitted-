@@ -1,0 +1,24 @@
+{
+  "name": "project2-express",
+  "version": "1.0.0",
+  "description": "http,os,fs with using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express"
+  ],
+  "author": "Y@$iR",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-mailer": "^0.3.1",
+    "nodemailer": "^4.6.7"
+  }
+}
