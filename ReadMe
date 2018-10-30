@@ -1,13 +1,13 @@
 
-Clone:
+1)Clone:
 
 git clone https://github.com/Yasir1986/User-Data-Submitted-.git
 
-Install: 
+2)Install: 
 
 npm install
 
-Run: 
+3)Run: 
 
 node app.js
 open localhost:3002
