@@ -10,3 +10,4 @@ npm install
 Run: 
 
 node app.js
+open localhost:3002
